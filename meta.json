@@ -1,0 +1,8 @@
+{
+ "source": "USPTO Trademark Full Text XML (public domain) via the Open Data Portal API",
+ "annualTo": "2025-12-31",
+ "latestDaily": "apc261026.zip",
+ "builtAt": "2026-10-27T22:59:09+00:00",
+ "liveMarks": 4437420,
+ "shards": 1289
+}
